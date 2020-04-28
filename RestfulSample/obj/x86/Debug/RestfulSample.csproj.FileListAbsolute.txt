@@ -1,0 +1,14 @@
+c:\users\administrator\documents\visual studio 2010\Projects\RestfulSample\RestfulSample\bin\Debug\RestfulSample.exe
+c:\users\administrator\documents\visual studio 2010\Projects\RestfulSample\RestfulSample\bin\Debug\RestfulSample.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.exe
+c:\users\administrator\documents\visual studio 2010\Projects\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.pdb
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.exe
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.pdb
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\bin\Debug\RestfulSample.exe
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\bin\Debug\RestfulSample.pdb
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.csprojResolveAssemblyReference.cache
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.Properties.Resources.resources
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.csproj.GenerateResource.Cache
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x86\Debug\RestfulSample.Form1.resources

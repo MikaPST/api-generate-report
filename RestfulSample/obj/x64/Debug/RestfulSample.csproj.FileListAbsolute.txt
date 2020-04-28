@@ -1,0 +1,10 @@
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\bin\x64\Debug\RestfulSample.exe
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\bin\x64\Debug\RestfulSample.pdb
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x64\Debug\RestfulSample.Form1.resources
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x64\Debug\RestfulSample.Properties.Resources.resources
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x64\Debug\RestfulSample.csproj.GenerateResource.Cache
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x64\Debug\RestfulSample.exe
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x64\Debug\RestfulSample.pdb
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\obj\x64\Debug\RestfulSample.csprojResolveAssemblyReference.cache
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\bin\x64\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\extprod3\Desktop\Michael\Projet WEB\RestfulSample\RestfulSample\RestfulSample\bin\x64\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
